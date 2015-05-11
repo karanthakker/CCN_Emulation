@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1395778626 source:e:\w2014\advanced routing techniques\proj\code_routing\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1395884409 source:e:\w2014\advanced routing techniques\proj\code\code_routing\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

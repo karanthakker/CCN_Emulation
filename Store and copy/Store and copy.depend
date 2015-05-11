@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1396646500 source:e:\w2014\advanced routing techniques\proj\code\store and copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

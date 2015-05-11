@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1395780146 source:e:\w2014\advanced routing techniques\proj\caching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1395793537 source:e:\w2014\advanced routing techniques\proj\code\caching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

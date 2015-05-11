@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1396637853 source:e:\w2014\advanced routing techniques\proj\store_test\main.c
+	<stdio.h>
+	<conio.h>
+
+1396648735 source:e:\w2014\advanced routing techniques\proj\code\store_test\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
